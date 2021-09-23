@@ -309,7 +309,7 @@ HUMAN2 = {
 				Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
 			}
 			regnal_second_names = {
-				Habsburg Romanov Windsor Mountbatten Salazar Nelson
+				Belladonc
 			}
 		}
 
@@ -343,7 +343,7 @@ HUMAN2 = {
 				Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
 			}
 			regnal_second_names = {
-				Habsburg Romanov Windsor Mountbatten Salazar Nelson
+				Belladonc
 			}
 		}
 
@@ -368,7 +368,7 @@ HUMAN2 = {
 				Ai Bi Lian Lin Mei Na Ni Xiu Xue Yan Ying Yu Yuan
 			}
 			regnal_second_names = {
-				Wang Zhu Yang
+				Belladonc
 			}
 		}
 
@@ -397,7 +397,7 @@ HUMAN2 = {
 				Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
 			}
 			regnal_second_names = {
-				Habsburg Romanov Windsor Mountbatten Salazar Nelson
+				Belladonc
 			}
 		}
 
@@ -425,7 +425,7 @@ HUMAN2 = {
 				Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
 			}
 			regnal_second_names = {
-				Habsburg Romanov Windsor Mountbatten Salazar Nelson
+				Belladonc
 			}
 		}
 
@@ -451,7 +451,7 @@ HUMAN2 = {
 				Nukatabe Toyomike Takara Niinomi Hidaka Takama Okiko Toshiko
 			}
 			regnal_second_names = {
-				"no Mikoto" Sumeramikoto Otomo Suijin Mononobe Yamato
+				Belladonc
 			}
 		}
 
@@ -477,7 +477,7 @@ HUMAN2 = {
 				Saanvi Aanya Aadhya Aaradhya Ananya Priyanka Divya Mahima Shivangi
 			}
 			regnal_second_names = {
-				Kumar Moorthi Shastri Prasad Acharya Patil Gupta Sharma Namboodiri Pannikar Potti Kutty Varma Sondharam
+				Belladonc
 			}
 		}
 
@@ -505,7 +505,7 @@ HUMAN2 = {
 				Alicia Antonia Carla Carmen Catalina Dolores Martina Julieta Antonella Renata
 			}
 			regnal_second_names = {
-				Fernandez Sanchez Lopez Martin Perez Gonzalez Alvarez Gomez Diaz
+				Belladonc
 			}
 		}
 
@@ -531,7 +531,7 @@ HUMAN2 = {
 				Zeinab Reihaneh Mobina Narges Ma'soumeh Sakineh Aya Alma Amani Amira
 			}
 			regnal_second_names = {
-				arakat Abbas "Abdel Nour" Abboud al-Ahdal al-Jazari al-Samarrai Salman Qasim Qudsi Qaderi al-Qadi Farrokhzad Madani
+				Belladonc
 			}
 		}
 
@@ -564,7 +564,7 @@ HUMAN2 = {
 				Kagiso Keneuwe Koketso Langalibalele Ntsebo Ntswaki Phathu Reneilwe Rudzani Shandu
 			}
 			regnal_second_names = {
-				Azikiwe Awolowo Balewa Akintola Nzeogwu Onwuatuegwu
+				Belladonc
 			}
 		}
 
@@ -587,13 +587,13 @@ HUMAN2 = {
 				"Del Grosso" D'Antoni Fazio "Di Bella" "Di Gennaro" Fabbrini Gambadori Galvani Marchetti Mazzitelli Olivieri Pacini Quadrini
 			}
 			regnal_first_names_male = {
-				Mario Luigi Giovanni Enrico Gustavo Silvio Umberto
+				Mario Luigi Giovanni Enrico Gustavo Silvio Umberto Frotlaic Matthaeus
 			}
 			regnal_first_names_female = {
-				Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
+				Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta Eremisia Artemisia
 			}
 			regnal_second_names = {
-				Ferrari Bianchi Ricci Marino "De Luca" Costa Giordano
+				Belladonc
 			}
 		}
 	}
